@@ -1,6 +1,3 @@
-# ============================================================
-# PYTHON PROGRAMS ON FILE HANDLING
-# ============================================================
 
 # 1. Write a Python program to create a file named student.txt and write
 # the student's name, roll number, branch, and semester into the file.
